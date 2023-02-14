@@ -1,0 +1,18 @@
+"FILES": The items purchased by the licensee for use subject to the license
+"LICENSEE": A person granted the following license to the FILES
+"NON-LICENSEE": A person who do not have a license to the FILES
+"LICENSOR": The person(s) granting this license to LICENSEES
+
+The FILES in the folder of this license are for use under the following terms;
+
+1. The LICENSEE may not under any circumstances:
+	
+	- Use the provided FILES in any way that earns the LICENSEE any sort of revenue
+	- Redistribute the FILES or derivatives of the FILES to a NON-LICENSEE without express written permission from the LICENSOR
+	- Claim to have created the FILES
+
+2. The person who purchased the FILES is the LICENSEE, and this LICENSE is provided solely to the aforementioned LICENSEE.
+
+3. The LICENSOR makes/provides no guarantees or warranty to the LICENSEE.
+
+If any of the terms of this license are broken, the LICENSOR has the right to revoke the license from the LICENSEE at any time.
