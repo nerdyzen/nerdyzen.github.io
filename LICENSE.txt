@@ -1,9 +1,11 @@
+By purchasing this product you agree to the following terms for the usage of the FILES:
+
 "FILES": The items purchased by the licensee for use subject to the license
 "LICENSEE": A person granted the following license to the FILES
 "NON-LICENSEE": A person who do not have a license to the FILES
 "LICENSOR": The person(s) granting this license to LICENSEES
 
-The FILES in the folder of this license are for use under the following terms;
+
 
 1. The LICENSEE may not under any circumstances:
 	
@@ -15,4 +17,4 @@ The FILES in the folder of this license are for use under the following terms;
 
 3. The LICENSOR makes/provides no guarantees or warranty to the LICENSEE.
 
-If any of the terms of this license are broken, the LICENSOR has the right to revoke the license from the LICENSEE at any time.
+If any of the terms of this license are broken, the LICENSOR reserves the right to revoke the license from the LICENSEE at any time without notice or compensation.
